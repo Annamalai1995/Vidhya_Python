@@ -6,4 +6,5 @@ print(fit+20)
 
 income=float(input("enter amt"))
 print(income,type(income))
+print(int(income))
 
